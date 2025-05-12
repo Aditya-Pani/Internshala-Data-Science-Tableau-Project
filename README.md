@@ -1,4 +1,4 @@
-📊 The Bike Haven - Sales Dashboard (Tableau Project)
+# 📊 The Bike Haven - Sales Dashboard (Tableau Project)
 
 🚴‍♂️ Project Overview
 This Tableau project was developed as part of the Data Science Post Graduate Course by Internshala Trainings. The goal was to transform static sales reports into an interactive, insightful dashboard for The Bike Haven, a bicycle retail shop based in San Francisco.
