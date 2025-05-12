@@ -1,3 +1,7 @@
+-- Preparing Data For Dashboard
+
+-- Querying The Data
+
 SELECT * FROM customer;
 
 SELECT * FROM date;
