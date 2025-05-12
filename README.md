@@ -5,17 +5,17 @@ This Tableau project was developed as part of the Data Science Post Graduate Cou
 
 The dashboard is designed for Chris, the Sales Manager, to make data-driven decisions and monitor sales performance across products, customers, and geographies.
 
-📝 Problem Statement
+## 📝 Problem Statement
 Create a visually interactive and informative dashboard for The Bike Haven using Tableau. The dashboard must allow tracking of sales data by product, customer, geography, and timeline while enabling comparison with budgeted sales figures.
 
-📂 Data Sources
-PostgreSQL Database (7 tables: customer, sales, date, product, category, subcategory, geography)
+## 📂 Data Sources
+1) PostgreSQL Database (7 tables: customer, sales, date, product, category, subcategory, geography)
 
-budgets.csv for monthly sales targets
+2) budgets.csv for monthly sales targets
 
-Data preprocessing was done using SQL (joins, filters, and column pruning). The final dataset was exported to CSV and visualized in Tableau.
+3) Data preprocessing was done using SQL (joins, filters, and column pruning). The final dataset was exported to CSV and visualized in Tableau.
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 The final dashboard includes:
 
 1) Top 10 Products by Sales Amount
@@ -36,20 +36,20 @@ The final dashboard includes:
 
 9) Country-wise Sales & Category Split
 
-💡 Dashboard Highlights
-Built in A4 Portrait Format as required
+## 💡 Dashboard Highlights
+1) Built in A4 Portrait Format as required
 
-Fully interactive with filters for:
+2) Fully interactive with filters for:
 
-1) Country
+  2.1) Country
 
-2) Product Category
+  2.2) Product Category
 
-3) Customer
+  2.3) Customer
 
-Optimized for desktop, tablet, and mobile viewing
+3) Optimized for desktop, tablet, and mobile viewing
 
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Thanks to Internshala Trainings for this project opportunity, and to Chris and John at The Bike Haven (case study characters) for the motivation behind this work.
 
