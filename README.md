@@ -40,12 +40,11 @@ The final dashboard includes:
 1) Built in A4 Portrait Format as required
 
 2) Fully interactive with filters for:
+   2.1) Country
 
-  2.1) Country
+   2.2) Product Category
 
-  2.2) Product Category
-
-  2.3) Customer
+   2.3) Customer
 
 3) Optimized for desktop, tablet, and mobile viewing
 
